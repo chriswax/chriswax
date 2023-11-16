@@ -5,4 +5,4 @@ Chriswax InfoTech Solutions - With IT life is Easy
 Am Uzoigwe Christian a graduate of Computer Science | FullStack Developer, Founder and CEO of Citechs Solutions.
 
 ## 🛠 Skills
-Javascript, HTML, CSS, NodeJS, PHP, MYSQL, React Native
+Javascript, HTML, CSS, NodeJS, PHP, MYSQL, .NET, Flutter Mobile Dev
